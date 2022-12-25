@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=150&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=110&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" />
   <div align="center">
     <img src="https://img.shields.io/badge/Contact to Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donghwa.dev@gmail.com"/>
 
