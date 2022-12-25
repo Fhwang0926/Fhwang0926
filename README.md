@@ -61,11 +61,11 @@
 
   <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=flat&column=7)](https://github.com/Fhwang0926/) -->
 
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=onedark&column=7" style="margin-left:8%"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=onedark&column=7"/>
 
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926" style="margin-left:10%; margin-top:40px; display:inline-block; float:left;"/>
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Fhwang0926&theme=radical&show_icons=true&count_private=true&include_all_commits=true" style="margin-left:20px; display:inline-block;float:left;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fhwang0926&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
 </div>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fhwang0926&theme=tokyonight)](https://git.io/streak-stats) -->
