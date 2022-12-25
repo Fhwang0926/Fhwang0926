@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=110&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=150&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" />
   <div align="center">
     <img src="https://img.shields.io/badge/Contact to Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donghwa.dev@gmail.com"/>
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/MariaDB-BA7257?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white"/>
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926"/ width="50%">
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926"/ width:"">
 <h6 align="left"> Etc, Techs that I've used at least once</h6>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
