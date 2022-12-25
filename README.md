@@ -29,13 +29,13 @@
 
 <hr>
 
-<div style="text-align:center">
+<div style="text-align:center" align="center">
 
-<img style="display:inline-block;margin:0 auto;" height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark"/>
 
-<img style="display:inline-block;margin:0 auto;" src="https://github-readme-stats-n9s8-74j0h7258-fhwang0926.vercel.app/api/top-langs/?username=Fhwang0926&layout=compact&exclude_repo=CoreTrakcer&hide=visualbasic&langs_count=15" width="40%"/>
+<img src="https://github-readme-stats-n9s8-74j0h7258-fhwang0926.vercel.app/api/top-langs/?username=Fhwang0926&layout=compact&exclude_repo=CoreTrakcer&hide=visualbasic&langs_count=15" width="40%"/>
 
-<img style="display:inline-block;margin:0 auto;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926" width="40%">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926" width="40%">
 
 </div>
 
