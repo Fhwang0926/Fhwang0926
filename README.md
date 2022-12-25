@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=100&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" />
-  <div style="text-align:center">
+  <div align="center">
     <img src="https://img.shields.io/badge/Contact to Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donghwa.dev@gmail.com"/>
 
 </div>
@@ -33,7 +33,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark"/>
 
-<img src="https://github-readme-stats-n9s8-74j0h7258-fhwang0926.vercel.app/api/top-langs/?username=Fhwang0926&layout=compact&exclude_repo=CoreTrakcer&hide=visualbasic&langs_count=15" width="40%"/>
+<img style="margin-top:-10px;" src="https://github-readme-stats-n9s8-74j0h7258-fhwang0926.vercel.app/api/top-langs/?username=Fhwang0926&layout=compact&exclude_repo=CoreTrakcer&hide=visualbasic&langs_count=15" width="40%"/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926" width="40%">
 
