@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=100&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" />
-  <div align="center">
+  <div style="text-align:center">
     <img src="https://img.shields.io/badge/Contact to Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donghwa.dev@gmail.com"/>
 
 </div>
@@ -9,15 +9,6 @@
 <h1 align="center">🛠 Tech Stack 🛠</h1>
 
 <h5 align="center">Techniques that I use often</h5>
-
-<img style="display:inline-block" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark"/>
-
-<div style="width:100%; text-align:center">
-<img style="display:inline-block;float:left" src="https://github-readme-stats-n9s8-74j0h7258-fhwang0926.vercel.app/api/top-langs/?username=Fhwang0926&layout=compact&exclude_repo=CoreTrakcer&hide=visualbasic&langs_count=15" width="45%"/>
-<img style="display:inline-block; margin-top:-10px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926" width="50%">
-
-</div>
-
 
 <h6 align="left"> Front-End</h6>
 
@@ -38,11 +29,21 @@
 
 <hr>
 
+<div style="text-align:center">
+
+<img style="display:inline-block;margin:0 auto;" height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark"/>
+
+<img style="display:inline-block;margin:0 auto;" src="https://github-readme-stats-n9s8-74j0h7258-fhwang0926.vercel.app/api/top-langs/?username=Fhwang0926&layout=compact&exclude_repo=CoreTrakcer&hide=visualbasic&langs_count=15" width="40%"/>
+
+<img style="display:inline-block;margin:0 auto;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926" width="40%">
+
+</div>
+
 <div align="center">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=flat&column=7)](https://github.com/Fhwang0926/) -->
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=onedark&column=7"/>
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fhwang0926&theme=radical&show_icons=true&count_private=true&include_all_commits=true" /> -->
-</div>
+
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fhwang0926&theme=tokyonight)](https://git.io/streak-stats) -->
 
