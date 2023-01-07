@@ -3,7 +3,12 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Contact to Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donghwa.dev@gmail.com"/>
 
+
+
+[![Update productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFhwang0926&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
+
 </p>
 
 <h1 align="center">🛠 Tech Stack 🛠</h1>
@@ -27,9 +32,9 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-<hr>
+<!-- <hr> -->
 
-<div style="text-align:center" align="center">
+<!-- <div style="text-align:center" align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark"/>
 
@@ -37,16 +42,14 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Fhwang0926" width="40%">
 
-</div>
+</div> -->
 
-<div align="center">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=flat&column=7)](https://github.com/Fhwang0926/) -->
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=onedark&column=7"/>
+  <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=onedark&column=7"/> -->
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fhwang0926&theme=radical&show_icons=true&count_private=true&include_all_commits=true" /> -->
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fhwang0926&theme=tokyonight)](https://git.io/streak-stats) -->
 
-<hr>
+<!-- <hr> -->
 
-[![Update productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFhwang0926&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
