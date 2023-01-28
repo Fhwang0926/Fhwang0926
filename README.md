@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=100&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFCE30&height=100&section=header&text=Fhwang%27s%20DevLog&fontSize=40&fontColor=000000&animation=twinkling&desc=Hello,%20I%20am%20a%20software%20engineer&descAlignY=80" /> -->
   <div align="center">
-    <img src="https://img.shields.io/badge/Contact to Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donghwa.dev@gmail.com"/>
-
-
-
+    
+[![Gmail](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:donghwa.dev@gmail.com) [![Notion](https://www.notion.so/cdn-cgi/image/format=auto,width=20,quality=100/front-static/shared/icons/notion-app-icon-3d.png)](https://abalone-file-cbb.notion.site/2023-Jerry-c61b2e6a46094747b411bad094c6f170)
+[Profile](https://abalone-file-cbb.notion.site/2023-Jerry-c61b2e6a46094747b411bad094c6f170)
 [![Update productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFhwang0926&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
