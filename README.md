@@ -11,11 +11,8 @@ productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/s
 
 
 [![vuejs](https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-
 [![.net](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white)](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white)
-
 [![nodejs](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
-
 [![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 
 
