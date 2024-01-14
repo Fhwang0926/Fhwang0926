@@ -9,10 +9,14 @@ productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/s
 * plz, detail profile on [Notion](https://abalone-file-cbb.notion.site/Jerry-c61b2e6a46094747b411bad094c6f170?pvs=4 "notion profile")
 * Main dish
 
-<img style="float:left" src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-<img style="float:left" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
-<img style="float:left" src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white">
-<img style="float:left" src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white" />
+
+[![vuejs](https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+
+[![.net](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white)](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white)
+
+[![nodejs](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+[![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 
 
   <!-- <img style="display:inline;width:96%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Fhwang0926&theme=tokyonight" /> -->
