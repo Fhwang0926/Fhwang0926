@@ -5,16 +5,16 @@ productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/s
 * **I'm a software engineer who is thinking about how to solve the problem.**
 * **I am currently a security solution development PL**
 * plz, detail profile on [Notion](https://abalone-file-cbb.notion.site/Jerry-c61b2e6a46094747b411bad094c6f170?pvs=4 "notion profile")
-* Main disk
+* Main dish
 
-<img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white" />
+<img style="float:left" src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+<img style="float:left" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
+<img style="float:left" src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white">
+<img style="float:left" src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white" />
 
 <div style="text-align:center" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark" width="100px;" />
   <!-- <img style="display:inline;width:96%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Fhwang0926&theme=tokyonight" /> -->
 
 </div>
