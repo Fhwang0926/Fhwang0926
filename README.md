@@ -1,3 +1,5 @@
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark" width="360px;" />
+
 [![Update
 productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/Fhwang0926/productive-box/actions/workflows/schedule.yml)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFhwang0926&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -12,18 +14,10 @@ productive-box](https://github.com/Fhwang0926/productive-box/actions/workflows/s
 <img style="float:left" src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img style="float:left" src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white" />
 
-<div style="text-align:center" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhwang0926&theme=nord_dark" width="100px;" />
   <!-- <img style="display:inline;width:96%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Fhwang0926&theme=tokyonight" /> -->
 
-</div>
-
-</p>
-
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fhwang0926&theme=tokyonight)](https://git.io/streak-stats) -->
-
-</div>
 
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fhwang0926&theme=onedark&column=7"/> -->
 
